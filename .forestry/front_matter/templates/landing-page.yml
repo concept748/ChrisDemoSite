@@ -80,5 +80,4 @@ fields:
   hidden: true
   default: home
 pages:
-- chris-1st-content-page.md
 - index.md
