@@ -20,7 +20,7 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget
   Aliquam fringilla viverra maximus. Aliquam ut molestie neque, sit amet aliquet erat.
   Praesent lacinia ligula a mi vestibulum ultricies. Suspendisse condimentum metus
   dolor, a dapibus lacus mollis quis. Suspendisse potenti. \n"
-publish_date: 2018-09-12 04:00:00 +0000
+publish_date: ''
 published: false
 
 ---
